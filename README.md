@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**OwisAhmed/OwisAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Owis Ahmed</h1>
 <h3 align="center">مبرمج ومطور أنظمة حاصل على بكالوريوس علوم الحاسوب من كلية العلوم التطبيقية – جامعة تعز. أمتلك خبرة في تصميم وتطوير مواقع الويب والتطبيقات باستخدام أحدث التقنيا</h3>
 
@@ -28,15 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owisahmed&show_icons=true&locale=en" alt="owisahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owisahmed&" alt="owisahmed" /></p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
